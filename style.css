@@ -25,3 +25,10 @@
         font-family: Georgia, 'Times New Roman', Times, serif;
 
     }
+    .produtos .item{
+        display: inline-block;
+    }
+    .produtos .item{
+        text-align: center;
+        margin: 200px;
+    }
